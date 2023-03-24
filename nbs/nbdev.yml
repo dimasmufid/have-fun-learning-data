@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "have-fun-learning-data"
+  site-url: "https://dimasmufid.github.io/have-fun-learning-data"
+  description: "Here we will talking from data engineering until deploy machine learning model. Hopefully this can help your learning journey."
+  repo-branch: main
+  repo-url: "https://github.com/dimasmufid/have-fun-learning-data"
